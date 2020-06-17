@@ -4,8 +4,6 @@ import traceback
 import random
 
 import gspread
-import json
-import re
 
 #ServiceAccountCredentials：Googleの各サービスへアクセスできるservice変数を生成。
 from oauth2client.service_account import ServiceAccountCredentials
